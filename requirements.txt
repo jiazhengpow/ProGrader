@@ -4,4 +4,4 @@ pdf2image
 pytesseract
 requests
 streamlit
-PyPDF2
+pypdf2
