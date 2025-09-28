@@ -1,0 +1,23 @@
+[
+  {
+    "question": "Is the user\u2019s search term related to the image?",
+    "options": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "question": "Is the image clear?",
+    "options": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "question": "Is the image containing sensitive elements?",
+    "options": [
+      "Yes",
+      "No"
+    ]
+  }
+]

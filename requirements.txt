@@ -1,0 +1,6 @@
+chat-deepseek-api
+docx
+pdf2image
+pytesseract
+requests
+streamlit
